@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class maxOfAnArray {
+public class maxOfAnArrayUsingRecursion {
     public static void main(String[] args) throws Exception {
         // write your code here
         Scanner sc = new Scanner(System.in);

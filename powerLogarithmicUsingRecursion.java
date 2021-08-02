@@ -1,5 +1,5 @@
 import java.util.*;
-public class powerLogarithmic {
+public class powerLogarithmicUsingRecursion {
     public static void main(String[] args) throws Exception {
         // write your code here
         Scanner sc = new Scanner(System.in);
