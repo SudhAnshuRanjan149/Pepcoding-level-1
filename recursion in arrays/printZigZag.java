@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class printZigZagUsingRecursion {
+public class printZigZag {
 
     public static void main(String[] args) throws Exception {
         // write your code here
