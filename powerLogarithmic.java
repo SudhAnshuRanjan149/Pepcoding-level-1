@@ -5,6 +5,7 @@ public class powerLogarithmic {
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();
         int n = sc.nextInt();
+        sc.close();
         int ans = power(x,n);
         System.out.println(ans);
     }
